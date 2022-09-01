@@ -18,7 +18,7 @@ code {
 
 
 .btn-footer-container {
-  @apply flex items-center justify-between p-6 border-solid border-slate-200 rounded-b;
+  @apply flex items-center justify-between p-6 border-red-600 border-2 border-dotted rounded-b;
 }
 
 .save-btn {
